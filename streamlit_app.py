@@ -1,4 +1,8 @@
 import streamlit
+import pandas
+
+my_fruit_list = pandas.read_csv('')
+streatlit.dataframe(my_fruit_list)
   
 
 streamlit.title('My Parents New Healthy Diner')
